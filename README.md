@@ -29,6 +29,6 @@ Get the folder `custom_components/petlibro` in your HA `config/custom_components
 <a href="https://my.home-assistant.io/redirect/config_flow_start/?domain=petlibro" target="_blank"><img src="https://my.home-assistant.io/badges/config_flow_start.svg" alt="Open your Home Assistant instance and start setting up a new integration." /></a>
 
 - Enter your credentials.
-  > Only one device can be login at the same time
+  > Only one device can be logged in at the same time.
   >
-  > If you to wan to keep your phone connected, create another account for this integration and share your device to it
+  > If you to want to keep your phone connected, create another account for this integration, share your device to it - but don't forget to login (with the mobile app) to the new account and accept the share.  After that you can login back to your primary account (on the mobile app) and use the new account on the integration.
